@@ -42,4 +42,4 @@ Here you may find related documetations and video lessons which would be useful 
 
 - [Java Design Patterns and Architecture (Udemy free course)](https://www.udemy.com/course/java-design-patterns-tutorial/)
 
-<img src="https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/Java%20Design%20Patterns%20and%20Architecture%20-%20Free%20Udemy%20course.png" alt="mypic" style="width:1050px"/>
+<img src="https://github.com/abbos0123/Design-Patterns/blob/main/images_x/Java%20Design%20Patterns%20and%20Architecture%20-%20Free%20Udemy%20course.png" alt="mypic" style="width:1050px"/>
