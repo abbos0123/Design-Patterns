@@ -1,0 +1,63 @@
+package org.example.model.employees;
+
+/**
+ * Author: Abbos Fayziboev
+ * Date: 25/04/23
+ * Email: abbosFayziboev@gmail.com
+ */
+public class Developer implements Employee, ManageEmployee {
+
+    private String name;
+    private String surname;
+    private int age;
+    private String info;
+    private double salary;
+    private String position;
+    private int experience;
+
+    public Developer(String name, double salary){
+        this.name = name;
+        this.salary = salary;
+    }
+
+    @Override
+    public String getName() {
+        return name;
+    }
+
+    @Override
+    public double calculateSalary() {
+        return salary - salary * 0.12;
+    }
+
+    @Override
+    public String getPosition() {
+        return position;
+    }
+
+    @Override
+    public int getExperience() {
+        return experience;
+    }
+
+    @Override
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public double changeSalary(double newSalary) {
+        this.salary = newSalary;
+        return salary;
+    }
+
+    @Override
+    public void changeExperience(int newExperience) {
+        this.experience = newExperience;
+    }
+
+    @Override
+    public void setInfo(String info) {
+        this.info = info;
+    }
+}
