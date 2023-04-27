@@ -38,7 +38,7 @@ Here you may find related documetations and video lessons which would be useful 
 
 - [Design Patterns (Christopher Okhravi)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
-![My Remote Image](https://github.com/abbos0123/Computer-Science-Books/blob/main/x_images/christopher.jpg)
+![My Remote Image](https://github.com/abbos0123/Design-Patterns/blob/main/images_x/christopher.jpg)
 
 - [Java Design Patterns and Architecture (Udemy free course)](https://www.udemy.com/course/java-design-patterns-tutorial/)
 
