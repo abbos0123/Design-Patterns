@@ -1,9 +1,9 @@
-## Composite design pattern 
+## Decorator design pattern 
 Decorator is a structural design pattern that lets you attach
 new behaviors to objects by placing these objects inside
 special wrapper objects that contain the behaviors.
 
-## Statdy Plan
+## Statdy Plan 📚
 |No|Name|Sourse|
 |---|---|---|
 |1.|[Dive into Design Patterns](https://github.com/abbos0123/Computer-Science-Books/blob/main/Design-Patterns/Dive%20into%20Design%20Patterns.pdf)|```page 192```|
