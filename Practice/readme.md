@@ -7,7 +7,7 @@ In this section you will find real life implementations of each design patter.
 |No|Design Pattern|Type|Status|Interview|
 |--|--------------|----|------|--------|
 |1.| [Factory Method](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Creational-Design-Patterns/Factory-Method)|Creational Design Patterns|:heavy_check_mark:|:heavy_check_mark:|
-|2.| [Abstract Factory](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Creational-Design-Patterns/Abstract-Factory)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
+|2.| [Abstract Factory](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Creational-Design-Patterns/Abstract-Factory)|Creational Design Patterns|:heavy_check_mark:|:heavy_check_mark:|
 |3.| [Builder](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Creational-Design-Patterns/Builder)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
 |4.| [Prototype](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Creational-Design-Patterns/Prototype)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
 |5.| [Singleton](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Creational-Design-Patterns/Singleton)|Creational Design Patterns|:heavy_check_mark:|:hourglass:|
