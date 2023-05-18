@@ -17,8 +17,8 @@ In this section you will find real life implementations of each design patter.
 |9.| [Decorator](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Structural-Design-Patterns/Decorator)|Structural Design Patterns|:heavy_check_mark:|:hourglass:|
 |10.| [Facade](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Structural-Design-Patterns/Facade)|Structural Design Patterns|:heavy_check_mark:|:hourglass:|
 |11.| [Flyweight](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Structural-Design-Patterns/Flyweight)|Structural Design Patterns|:heavy_check_mark:|:hourglass:|
-|12.| [Proxy](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Structural-Design-Patterns/Proxy)|Structural Design Patterns|:book:|:hourglass:|
-|13.| [Chain of Responsibility](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Behavioral-Design-Patterns/Chain-of-Presponsibility)|Behavioral Design Patterns|:hourglass:|:hourglass:|
+|12.| [Proxy](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Structural-Design-Patterns/Proxy)|Structural Design Patterns|:heavy_check_mark:|:hourglass:|
+|13.| [Chain of Responsibility](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Behavioral-Design-Patterns/Chain-of-Presponsibility)|Behavioral Design Patterns|:book:|:hourglass:|
 |14.| [Command](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Behavioral-Design-Patterns/Command)|Behavioral Design Patterns|:hourglass:|:hourglass:|
 |15.| [Iterator](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Behavioral-Design-Patterns/Iterator)|Behavioral Design Patterns|:hourglass:|:hourglass:|
 |16.| [Mediator](https://github.com/abbos0123/Design-Patterns/tree/main/Practice/Behavioral-Design-Patterns/Mediator)|Behavioral Design Patterns|:hourglass:|:hourglass:|
